@@ -44,3 +44,13 @@ scikit-learn Documentation
 Make sure all images are resized correctly to match the HOG win_size.
 Some scripts rely on OpenCV's ML module (cv2.ml.SVM) rather than scikit-learn’s SVM for compatibility with HOG detectors.
 The repository is mainly educational and for self-learning purposes.
+
+🧑‍💻 Author
+Amin Moghtadar
+🚀 AI Engineer & Django Developer
+🪪 License
+This project is released under the MIT License
+⭐ Support
+If you find this project helpful, please ⭐ star the repository on GitHub — it motivates me to keep improving it
+
+
